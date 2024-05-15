@@ -1,8 +1,10 @@
-1.cp
-2.chmod
-3.pwd
-4.ping
-5.find
-6.ps
-7.kill
-8.vimdiff
+1.ls -l
+2.cp
+3.chmod
+4.pwd
+5.ping
+6.find
+7.ps
+8.kill
+9.vimdiff
+
