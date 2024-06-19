@@ -11,6 +11,7 @@ unsigned int list_size (node** head_ptr) {
 	node* curr = *head_ptr;
 	while (curr != NULL) {
 		++size;
+		//printf("val: %d\n",curr->val);
 		curr = curr->next;
 	}
 	return size;
